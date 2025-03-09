@@ -1,0 +1,8 @@
+name = "newsnow"
+compatibility_date = "2024-03-09"
+
+[build]
+command = "pnpm run build"
+
+[site]
+bucket = "dist/output/public"
